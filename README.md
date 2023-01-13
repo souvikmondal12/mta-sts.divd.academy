@@ -1,1 +1,1 @@
-# mta-sts.divd
+#mta-sts.divd.academy
